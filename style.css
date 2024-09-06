@@ -1,14 +1,17 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #f4ebde;
   font-family: "Roboto", sans-serif;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/142/382/original/507331-brown-flower-background-image.jpg?1725637650");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 a {
-  color: #885df1;
+  color: #f18f06;
 }
 
 .content {
-  background: white;
+  background: #fdfaf5;
   max-width: 600px;
   margin: 45px auto;
   padding: 30px;
@@ -22,7 +25,7 @@ header {
 }
 
 .search-form-input {
-  background-color: #f9f7fe;
+  background-color: #f4ebde;
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -31,7 +34,7 @@ header {
 }
 
 .search-form-button {
-  background: #885df1;
+  background: #5c715e;
   padding: 15px 30px;
   border: none;
   border-radius: 6px;
